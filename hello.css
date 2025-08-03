@@ -104,7 +104,8 @@ nav ul li a:hover{
     font-size: 30px;
     font-weight: bold;
 }
-.paragrap{
+.paragrap h2 p{
+    margin-top: 20%;
     
 }
 .paragraph h2{
